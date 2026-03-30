@@ -79,10 +79,7 @@ Experienced Full-Stack Developer with **3.5+ years** of expertise building scala
 
 ---
 
-
-### 📊 GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
 
 <img height="160" src="https://github-readme-stats-ten-wheat-84.vercel.app/api?username=Hashirhash001&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0f0f&title_color=2dd4bf&icon_color=2dd4bf&text_color=e2fafa" />
 
@@ -94,7 +91,7 @@ Experienced Full-Stack Developer with **3.5+ years** of expertise building scala
 
 <img src="https://streak-stats.demolab.com?user=Hashirhash001&hide_border=true&background=0a0f0f&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&dates=e2fafa&sideLabels=2dd4bf&sideNums=e2fafa&currStreakNum=e2fafa&stroke=1f3333" />
 
-</div>
+</div> -->
 
 ---
 
