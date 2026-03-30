@@ -84,11 +84,15 @@ Experienced Full-Stack Developer with **3.5+ years** of expertise building scala
 
 <div align="center">
 
-![Hashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashirhash001&show_icons=true&theme=radical&hide_border=true&bg_color=0a0f0f&title_color=2dd4bf&icon_color=2dd4bf&text_color=e2fafa)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hashirhash001&show_icons=true&hide_border=true&count_private=true&bg_color=0a0f0f&title_color=2dd4bf&icon_color=2dd4bf&text_color=e2fafa" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashirhash001&layout=compact&theme=radical&hide_border=true&bg_color=0a0f0f&title_color=2dd4bf&text_color=e2fafa)
+&nbsp;&nbsp;
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hashirhash001&theme=radical&hide_border=true&background=0a0f0f&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashirhash001&layout=compact&hide_border=true&bg_color=0a0f0f&title_color=2dd4bf&text_color=e2fafa&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Hashirhash001&hide_border=true&background=0a0f0f&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&dates=7ab8b8&sideLabels=2dd4bf" />
 
 </div>
 
