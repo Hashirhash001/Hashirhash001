@@ -3,7 +3,7 @@
 # Hi, I'm Hashir MV 👋
 ### Full-Stack Developer — Laravel · NestJS · REST APIs
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f0f?style=for-the-badge&logo=vercel&logoColor=2dd4bf)]([https://hashirhash001.github.io](https://hashirhash001.github.io/portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f0f?style=for-the-badge&logo=vercel&logoColor=2dd4bf)](https://hashirhash001.github.io/portfolio/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashirmv007)
 [![Email](https://img.shields.io/badge/Email-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirmv299@gmail.com)
 
