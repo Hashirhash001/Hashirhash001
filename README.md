@@ -69,11 +69,13 @@ Experienced Full-Stack Developer with **3.5+ years** of expertise building scala
 ---
 
 ### 💼 Experience
-Zenerom Creative Lab Full-Stack Developer 08/2024 – Present
-Sysitco Technologies Back-End Developer 05/2023 – 07/2024
-Saportika Full-Stack Developer 12/2022 – 04/2023
-Tapclone Full-Stack Developer 09/2022 – 11/2022
 
+| Period | Company | Role |
+|---|---|---|
+| 08/2024 – Present | Zenerom Creative Lab | Full-Stack Developer |
+| 05/2023 – 07/2024 | Sysitco Technologies | Back-End Developer |
+| 12/2022 – 04/2023 | Saportika | Full-Stack Developer |
+| 09/2022 – 11/2022 | Tapclone | Full-Stack Developer |
 
 ---
 
