@@ -84,9 +84,9 @@ Experienced Full-Stack Developer with **3.5+ years** of expertise building scala
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-a6cq2cg9o-hashirhash001s-projects.vercel.app/api?username=Hashirhash001&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0f0f&title_color=2dd4bf&icon_color=2dd4bf&text_color=e2fafa" />
+<!-- <img height="160" src="https://github-readme-stats-a6cq2cg9o-hashirhash001s-projects.vercel.app/api?username=Hashirhash001&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0f0f&title_color=2dd4bf&icon_color=2dd4bf&text_color=e2fafa" />
 
-&nbsp;
+&nbsp; -->
 
 <img height="160" src="https://github-readme-stats-a6cq2cg9o-hashirhash001s-projects.vercel.app/api/top-langs/?username=Hashirhash001&layout=compact&hide_border=true&bg_color=0a0f0f&title_color=2dd4bf&text_color=e2fafa&langs_count=8" />
 
